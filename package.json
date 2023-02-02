@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
- 	"scripts": {
+  "scripts": {
     "start": "node app.js"
   },
   "author": "",
@@ -14,7 +14,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.21",
     "mongodb": "^4.13.0",
-    "mongoose": "^6.8.3",
+    "mongoose": "^6.9.0",
     "mongosh": "^1.6.2"
   }
 }
